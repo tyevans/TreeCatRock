@@ -1,0 +1,3 @@
+pyglet
+mido
+python-rtmidi
